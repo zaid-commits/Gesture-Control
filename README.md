@@ -22,7 +22,7 @@ Welcome to the Hand Gesture-Based Cursor Control and Arithmetic Solver project! 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/hand-gesture-calculator.git
+    git clone https://github.com/zaid-commits/hand-gesture-calculator.git
     ```
 
 2. **Navigate to the Project Directory:**
@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📫
 Feel free to reach out if you have any questions or suggestions:
-- **Email**: your-email@example.com
+- **Email**: zaidcommits.github@gmail.com
 - **GitHub**: [zaid-commits](https://github.com/zaid-commits)
 
 ---
