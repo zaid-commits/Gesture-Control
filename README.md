@@ -1,4 +1,3 @@
-Certainly! Here's a cool README template for your hand gesture-based cursor control and arithmetic solver project:
 
 ---
 
@@ -101,8 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact 📫
 Feel free to reach out if you have any questions or suggestions:
 - **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: [zaid-commits](https://github.com/zaid-commits)
 
 ---
 
-Feel free to adjust any sections as needed or add more details specific to your project.
